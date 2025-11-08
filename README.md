@@ -1,6 +1,6 @@
 # Página Personal — Juan Macías
 
-¡Bienvenido a mi página personal! amarillo
+¡Bienvenido a mi página personal! amarillo esto es un cambio
 
 Este espacio está dedicado a compartir mis proyectos, aprendizajes y reflexiones sobre programación, inteligencia artificial, ciencia de datos y otros temas que me apasionan.  
 
